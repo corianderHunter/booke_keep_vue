@@ -1,5 +1,5 @@
 <template>
-    <div class="timeline" v-finger:swipe="fingerSwipe">
+    <div class="timeline" v-finger:swipe="fingerSwipe" v-scroll="onScroll">
         <v-img
             src="https://cdn.vuetifyjs.com/images/cards/forest.jpg"
             gradient="to top, rgba(0,0,0,.44), rgba(0,0,0,.44)"
@@ -69,6 +69,7 @@
 <script>
 import { isEdged } from '@utils/common';
 export default {
+    innerwidth: window.innerHeight,
     data: () => ({
         items: [],
         testData: {
@@ -81,8 +82,19 @@ export default {
     }),
     mounted() {
         this.items = [this.testData, this.testData, this.testData];
+        window.onresize = () => (this.$options.innerwidth = window.innerWidth);
     },
     methods: {
+        onScroll(evt) {
+            if (this.timelineHolder) return;
+            //这考虑用 requestAnima?
+            let restHeight =
+                document.documentElement.getBoundingClientRect().bottom -
+                this.$options.innerwidth;
+            if (restHeight < 100) {
+                this.upFresh();
+            }
+        },
         fingerSwipe(evt) {
             //向上滚动刷新
             if (isEdged('bottom')) {
