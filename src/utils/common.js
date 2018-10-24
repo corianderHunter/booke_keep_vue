@@ -29,7 +29,26 @@ function isEdged(direction, element = document.documentElement, isGlobal = true)
     case 'bottom':
       return Math.abs(bottom - height) < 15 ? true : false
     default:
-      return false
+      return false1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   }
 }
 

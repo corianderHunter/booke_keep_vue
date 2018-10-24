@@ -1,19 +1,38 @@
 <template>
     <div class="timeline" v-finger:swipe="fingerSwipe" v-scroll="onScroll">
-        <v-img
-            src="https://cdn.vuetifyjs.com/images/cards/forest.jpg"
-            gradient="to top, rgba(0,0,0,.44), rgba(0,0,0,.44)"
-        >
-            <v-container fill-height>
-                <v-layout align-center class="v-layout">
-                    <strong class="display-4 font-weight-regular mr-4">8</strong>
-                    <v-layout column justify-end>
-                        <div class="headline font-weight-light">Monday</div>
-                        <div class="text-uppercase font-weight-light">February 2015</div>
+        <v-card class="default-header">
+            <v-btn absolute bottom color="pink" right fab>
+                <v-icon color="white">add</v-icon>
+            </v-btn>
+            <v-img
+                max-height="300"
+                src="https://cdn.vuetifyjs.com/images/cards/forest.jpg"
+                gradient="to top, rgba(0,0,0,.44), rgba(0,0,0,.44)"
+            >
+                <v-container fill-height>
+                    <v-layout align-center class="v-layout">
+                        <strong class="display-4 font-weight-regular mr-4">8</strong>
+                        <v-layout column justify-end>
+                            <div class="headline font-weight-light">Monday</div>
+                            <div class="text-uppercase font-weight-light">February 2015</div>
+                        </v-layout>
                     </v-layout>
-                </v-layout>
-            </v-container>
-        </v-img>
+                </v-container>
+            </v-img>
+        </v-card>
+        <v-card>
+            <v-img
+                max-height="180"
+                src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+                gradient="to top, rgba(0,0,0,.44), rgba(0,0,0,.44)"
+            >
+                <v-container fill-height>
+                    <v-layout align-center class="v-layout">
+                        <div class="calendar—div mg0a"></div>
+                    </v-layout>
+                </v-container>
+            </v-img>
+        </v-card>
         <v-timeline class="v-timeline" align-top dense>
             <v-timeline-item color="pink" small v-for="(item,n) in items" :key="n">
                 <v-layout pt-3>
@@ -81,7 +100,7 @@ export default {
         timelineHolder: false
     }),
     mounted() {
-        this.items = [this.testData, this.testData, this.testData];
+        this.items = [this.testData];
         window.onresize = () => (this.$options.innerwidth = window.innerWidth);
     },
     methods: {
@@ -91,7 +110,7 @@ export default {
             let restHeight =
                 document.documentElement.getBoundingClientRect().bottom -
                 this.$options.innerwidth;
-            if (restHeight < 100) {
+            if (restHeight < 190) {
                 this.upFresh();
             }
         },
@@ -110,8 +129,14 @@ export default {
                     address: '111',
                     price: '111'
                 });
+                this.items.push({
+                    date: '111',
+                    name: '111',
+                    address: '111',
+                    price: '111'
+                });
                 this.timelineHolder = false;
-            }, 1000);
+            }, 2000);
         }
     }
 };
@@ -125,12 +150,16 @@ export default {
     .v-layout {
         color: #fff;
     }
+    .calendar—div {
+        opacity: 0.6;
+    }
     .timeline-img {
         margin: 10px 0;
     }
     .v-timeline {
         width: calc(100% - 30px);
         margin: 0 auto;
+        flex: 1;
     }
 }
 </style>
