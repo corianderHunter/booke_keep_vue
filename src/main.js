@@ -10,6 +10,7 @@ import service from './service'
 
 import 'material-design-icons-iconfont/dist/material-design-icons.css'
 import '@assets/styles/normalize.css'
+import 'animate.css/animate.min.css'
 import '@assets/styles/main.scss'
 import 'vuetify/dist/vuetify.min.css'
 

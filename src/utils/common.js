@@ -3,12 +3,19 @@ function isEdged(direction, element = document.documentElement, isGlobal = true)
   let directions = ['top', 'right', 'bottom', 'left']
   if (!directions.includes(direction))
     throw new Error("function utils/common/isEdged:the 1st must be specified as ('top', 'right', 'bottom', 'left')")
+  let boundingClientRect = element.getBoundingClientRect()
+  let parentBoundingClientRect = element.parentElement.getBoundingClientRect()
   let {
     top,
     right,
     bottom,
     left
-  } = element.getBoundingClientRect();
+  } = isGlobal ? boundingClientRect : {
+    top: boundingClientRect.top - parentBoundingClientRect.top,
+    right: boundingClientRect.right - parentBoundingClientRect.left,
+    bottom: boundingClientRect.bottom - parentBoundingClientRect.top,
+    left: boundingClientRect.left - parentBoundingClientRect.left
+  };
   let {
     width,
     height
@@ -29,7 +36,7 @@ function isEdged(direction, element = document.documentElement, isGlobal = true)
     case 'bottom':
       return Math.abs(bottom - height) < 15 ? true : false
     default:
-      return false1
+      return false;
 
 
 
