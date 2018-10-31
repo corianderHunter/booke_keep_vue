@@ -9,6 +9,9 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.corianderhunter.bookKeepVue"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.corianderhunter.bookKeepVue"
     }
   },
   "dependent_plugins": {}

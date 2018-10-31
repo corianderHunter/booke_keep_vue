@@ -71,7 +71,7 @@ const devWebpackConfig = merge(baseWebpackConfig, {
     new webpack.ProvidePlugin({
       $: 'jquery',
       jQuery: 'jquery',
-      _: 'underscore'
+      _: 'lodash'
     })
   ]
 })

@@ -1,4 +1,4 @@
-#Fri Oct 26 11:58:12 CST 2018
+#Tue Oct 30 11:47:05 CST 2018
 base.0=/Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
