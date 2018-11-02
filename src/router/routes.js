@@ -8,12 +8,13 @@ import mainContainer from '@views/common/mainContainer'
  */
 let timeline = () => import('@views/timeline')
 let test = () => import('@views/test')
+let record = () => import('@views/record')
 
 export default [{
   path: '/',
   name: 'main-container',
   component: mainContainer,
-  redirect: 'test',
+  redirect: 'record',
   children: [{
     path: 'timeline',
     name: 'timeline',
@@ -22,5 +23,9 @@ export default [{
     path: 'test',
     name: 'test',
     component: test
+  }, {
+    path: 'record',
+    name: 'record',
+    component: record
   }]
 }]

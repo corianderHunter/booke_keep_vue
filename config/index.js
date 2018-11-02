@@ -3,8 +3,12 @@
 // see http://vuejs-templates.github.io/webpack for documentation.
 
 const path = require('path')
+const constant = require('../constant')
 
 module.exports = {
+  constant: {
+    ...constant
+  },
   dev: {
 
     // Paths
