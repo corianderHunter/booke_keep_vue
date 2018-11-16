@@ -6,8 +6,9 @@
   <meta name=format-detection content="telephone=no">
   <meta name=msapplication-tap-highlight content=no>
   <meta name=viewport content="user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1,width=device-width">
-  <link rel=stylesheet type=text/css href=css/index.css> <title>Hello World</title>
-  <link href=css/app.7346b7b67c3b68212be781dd132d028a.css rel=stylesheet>
+  <link rel=stylesheet type=text/css href="<%= process.env.NODE_ENV === 'production'? 'mdi/material-design-icons.css':'/static/mdi/material-design-icons.css' %>">
+  <title>Hello World</title>
+
 </head>
 
 <body>

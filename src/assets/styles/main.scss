@@ -25,10 +25,18 @@ input:focus {
   transition: all .5s
 }
 
+.dib {
+  display: inline-block !important;
+}
+
 .placeholder {
   color: #f5f5f5;
   background-color: #f5f5f5;
   margin: 6px 0;
+}
+
+body .v-icon {
+  font-size: 14px;
 }
 
 .calendar—div {

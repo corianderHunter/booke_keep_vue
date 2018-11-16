@@ -20,6 +20,10 @@
         "source": "/Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/res/drawable-land-xhdpi/screen.png"
     },
     {
+        "merged": "/Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/build/intermediates/res/merged/debug/xml_camera_provider_paths.xml.flat",
+        "source": "/Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/res/xml/camera_provider_paths.xml"
+    },
+    {
         "merged": "/Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxxhdpi_screen.png.flat",
         "source": "/Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
     },
