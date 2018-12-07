@@ -8,13 +8,14 @@ import mainContainer from '@views/common/mainContainer'
  */
 let timeline = () => import('@views/timeline')
 let test = () => import('@views/test')
-let record = () => import('@views/record')
+let recordForm = () => import('@views/record/form')
+let recordCard = () => import('@views/record/card')
 
 export default [{
   path: '/',
   name: 'main-container',
   component: mainContainer,
-  redirect: 'record',
+  redirect: 'timeline',
   children: [{
     path: 'timeline',
     name: 'timeline',
@@ -24,8 +25,12 @@ export default [{
     name: 'test',
     component: test
   }, {
-    path: 'record',
-    name: 'record',
-    component: record
+    path: 'record/form',
+    name: 'recordForm',
+    component: recordForm
+  }, {
+    path: 'record/card',
+    name: 'recordCard',
+    component: recordCard
   }]
 }]

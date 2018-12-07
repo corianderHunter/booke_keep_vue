@@ -1,11 +1,19 @@
 <template>
     <div class="timeline">
         <v-card class="default-header" transition="slide-y-reverse-transition">
-            <v-btn absolute bottom color="pink" right fab v-show="curHeader==='default'">
+            <v-btn
+                absolute
+                bottom
+                color="pink"
+                right
+                fab
+                v-show="curHeader==='default'"
+                @click="$router.push({name:'record'})"
+            >
                 <v-icon color="white">add</v-icon>
             </v-btn>
             <v-img
-                :max-height="curHeader==='default'?300:180"
+                :max-height="curHeader==='default'?300:auto"
                 src="https://cdn.vuetifyjs.com/images/cards/forest.jpg"
                 gradient="to top, rgba(0,0,0,.44), rgba(0,0,0,.44)"
             >
@@ -18,22 +26,13 @@
                         </v-layout>
                     </v-layout>
                 </v-container>
-                <v-container fill-height v-show="curHeader==='reading'" class="pa0">
-                    <v-layout align-center class="v-layout" v-show="calendarChoosing">
-                        <div class="calendar—div mg0a">
-                            <div class="weekday">星期一</div>
-                            <strong class="display-2 font-weight-regular">8</strong>
-                            <div class="text-uppercase">9月 2018</div>
-                        </div>
-                    </v-layout>
-                    <v-date-picker
-                        v-model="date"
-                        full-width
-                        landscape
-                        class="mt-3"
-                        v-show="!calendarChoosing"
-                    ></v-date-picker>
-                </v-container>
+                <v-date-picker
+                    v-model="date"
+                    color="purple lighten-1"
+                    full-width
+                    landscape
+                    v-show="!calendarChoosing"
+                ></v-date-picker>
             </v-img>
         </v-card>
         <div class="scroll-container" v-scroll:#scroll-target="onScroll" id="scroll-target">

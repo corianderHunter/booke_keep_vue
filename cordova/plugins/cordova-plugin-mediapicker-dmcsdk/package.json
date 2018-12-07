@@ -1,0 +1,67 @@
+{
+  "_from": "cordova-plugin-mediapicker-dmcsdk",
+  "_id": "cordova-plugin-mediapicker-dmcsdk@2.4.2",
+  "_inBundle": false,
+  "_integrity": "sha512-HzVmMRFuy2TYuPqcYdOEJU3UKgaG8D1nLi6zo1CX6V7LazlND2UsIYVmQhrfKtaXP7RxNaZZ6OYRlEqmtcYIFA==",
+  "_location": "/cordova-plugin-mediapicker-dmcsdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-mediapicker-dmcsdk",
+    "name": "cordova-plugin-mediapicker-dmcsdk",
+    "escapedName": "cordova-plugin-mediapicker-dmcsdk",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-mediapicker-dmcsdk/-/cordova-plugin-mediapicker-dmcsdk-2.4.2.tgz",
+  "_shasum": "8a6fd032b0d9355a3100092d4ee46a72d748e6ee",
+  "_spec": "cordova-plugin-mediapicker-dmcsdk",
+  "_where": "/Users/weidonghua/Project/book_keep_vue/cordova",
+  "author": {
+    "name": "DmcSDK"
+  },
+  "bugs": {
+    "url": "https://github.com/DmcSDK/cordova-plugin-mediaPicker/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-mediapicker-dmcsdk",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "android ios mediaPicker support selection of multiple image and video",
+  "homepage": "https://github.com/DmcSDK",
+  "keywords": [
+    "cordova",
+    "imagePicker",
+    "image Picker",
+    "Multiple Image Selection",
+    "video Selection",
+    "gif Selection",
+    "cordova-android",
+    "cordova-ios",
+    "mediaPicker",
+    "videoPicker",
+    "video Picker",
+    "gifPicker",
+    "compress",
+    "fileToBlob",
+    "compress image"
+  ],
+  "license": "ISC",
+  "name": "cordova-plugin-mediapicker-dmcsdk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmcSDK/cordova-plugin-mediaPicker.git"
+  },
+  "version": "2.4.2"
+}

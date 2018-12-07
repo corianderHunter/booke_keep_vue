@@ -11,15 +11,27 @@ INJECTED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/
 	android:name
 		ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:12:127-180
 manifest
-ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:2:1-21:12
-MERGED from [com.android.support:support-v4:24.1.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/2832e957b42971aa788698fca4c37668/AndroidManifest.xml:17:1-27:12
+ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3750bca9e212e54b9d779a8d3e5302c2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.chrisbanes.photoview:library:1.2.4] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/library-1.2.4.aar/48fb0ba74c336f64bb0dd4ec8cbfc1f8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/727f767fbef5b6049a91b5e3f5c76bf7/AndroidManifest.xml:17:1-31:12
 MERGED from [:CordovaLib] /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
-INJECTED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/b05a272d7942e1142778669c22e8513f/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/fed8c79a8431669f78c070f1ff55c3de/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/5417bf57d32863ca4596f50b2382c4fe/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/07a24ad866a9b79b7f7f2b2d5723fe72/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8d57ae1046f16727dbd9fd96e8184ee0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/d66890e0fb9feb0565a5f91c3508d18c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/63480fbefc5e1a83c0871e7ebbab89de/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4c034e4370cbb099a2024de08b6871af/AndroidManifest.xml:17:1-31:12
+MERGED from [pub.devrel:easypermissions:1.0.0] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/easypermissions-1.0.0.aar/550d37eb59e554c89bdf4cf5426d5195/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:2:102-143
 		INJECTED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml
@@ -56,14 +68,36 @@ ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app
 		ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
 application
 ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:5:5-15:19
-MERGED from [com.android.support:support-v4:24.1.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/2832e957b42971aa788698fca4c37668/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.1.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/2832e957b42971aa788698fca4c37668/AndroidManifest.xml:25:5-20
+MERGED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:14:5-42:19
+MERGED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:14:5-42:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3750bca9e212e54b9d779a8d3e5302c2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3750bca9e212e54b9d779a8d3e5302c2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/727f767fbef5b6049a91b5e3f5c76bf7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/727f767fbef5b6049a91b5e3f5c76bf7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/fed8c79a8431669f78c070f1ff55c3de/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/fed8c79a8431669f78c070f1ff55c3de/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/5417bf57d32863ca4596f50b2382c4fe/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/5417bf57d32863ca4596f50b2382c4fe/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/07a24ad866a9b79b7f7f2b2d5723fe72/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/07a24ad866a9b79b7f7f2b2d5723fe72/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8d57ae1046f16727dbd9fd96e8184ee0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8d57ae1046f16727dbd9fd96e8184ee0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/d66890e0fb9feb0565a5f91c3508d18c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/d66890e0fb9feb0565a5f91c3508d18c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/63480fbefc5e1a83c0871e7ebbab89de/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/63480fbefc5e1a83c0871e7ebbab89de/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4c034e4370cbb099a2024de08b6871af/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4c034e4370cbb099a2024de08b6871af/AndroidManifest.xml:29:5-20
+MERGED from [pub.devrel:easypermissions:1.0.0] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/easypermissions-1.0.0.aar/550d37eb59e554c89bdf4cf5426d5195/AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:1.0.0] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/easypermissions-1.0.0.aar/550d37eb59e554c89bdf4cf5426d5195/AndroidManifest.xml:11:5-17:19
 	android:supportsRtl
 		ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:5:114-140
 	android:label
 		ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:5:81-113
 	android:hardwareAccelerated
 		ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
+	android:allowBackup
+		ADDED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:15:9-35
 	android:icon
 		ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:5:53-80
 activity#com.corianderhunter.bookKeepVue.MainActivity
@@ -94,35 +128,141 @@ ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app
 		ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
 uses-sdk
 ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:16:5-74
-MERGED from [com.android.support:support-v4:24.1.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/2832e957b42971aa788698fca4c37668/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:24.1.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/2832e957b42971aa788698fca4c37668/AndroidManifest.xml:21:5-23:54
+MERGED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3750bca9e212e54b9d779a8d3e5302c2/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3750bca9e212e54b9d779a8d3e5302c2/AndroidManifest.xml:21:5-23:78
+MERGED from [com.github.chrisbanes.photoview:library:1.2.4] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/library-1.2.4.aar/48fb0ba74c336f64bb0dd4ec8cbfc1f8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes.photoview:library:1.2.4] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/library-1.2.4.aar/48fb0ba74c336f64bb0dd4ec8cbfc1f8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/727f767fbef5b6049a91b5e3f5c76bf7/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/727f767fbef5b6049a91b5e3f5c76bf7/AndroidManifest.xml:21:5-23:54
 MERGED from [:CordovaLib] /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
 MERGED from [:CordovaLib] /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/b05a272d7942e1142778669c22e8513f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/b05a272d7942e1142778669c22e8513f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/fed8c79a8431669f78c070f1ff55c3de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/fed8c79a8431669f78c070f1ff55c3de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/5417bf57d32863ca4596f50b2382c4fe/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/5417bf57d32863ca4596f50b2382c4fe/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/07a24ad866a9b79b7f7f2b2d5723fe72/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/07a24ad866a9b79b7f7f2b2d5723fe72/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8d57ae1046f16727dbd9fd96e8184ee0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8d57ae1046f16727dbd9fd96e8184ee0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/d66890e0fb9feb0565a5f91c3508d18c/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/d66890e0fb9feb0565a5f91c3508d18c/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/63480fbefc5e1a83c0871e7ebbab89de/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/63480fbefc5e1a83c0871e7ebbab89de/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4c034e4370cbb099a2024de08b6871af/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4c034e4370cbb099a2024de08b6871af/AndroidManifest.xml:21:5-23:58
+MERGED from [pub.devrel:easypermissions:1.0.0] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/easypermissions-1.0.0.aar/550d37eb59e554c89bdf4cf5426d5195/AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:1.0.0] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/easypermissions-1.0.0.aar/550d37eb59e554c89bdf4cf5426d5195/AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:24.1.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/2832e957b42971aa788698fca4c37668/AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3750bca9e212e54b9d779a8d3e5302c2/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:16:42-71
 	android:minSdkVersion
 		ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:16:15-41
-uses-permission#android.permission.ACCESS_COARSE_LOCATION
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:17:5-81
+MERGED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:12:5-81
+MERGED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:12:5-81
 	android:name
 		ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:18:5-80
+MERGED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:11:5-80
+MERGED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:18:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:19:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:18:5-79
+ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:20:5-79
 	android:name
-		ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:18:22-76
+		ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:20:22-76
 uses-feature#android.hardware.location.gps
-ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:19:5-66
+ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:21:5-66
 	android:name
-		ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:19:19-63
-uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:20:5-81
-	android:name
-		ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:20:22-78
+		ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:21:19-63
 meta-data#android.support.FILE_PROVIDER_PATHS
 ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:13:13-123
 	android:resource
 		ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:13:75-120
 	android:name
 		ADDED from /Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/src/main/AndroidManifest.xml:13:24-74
+provider#com.dmcbig.mediapicker.utils.DmcFileProvider
+ADDED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:17:9-25:20
+	android:grantUriPermissions
+		ADDED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:21:13-47
+	android:authorities
+		ADDED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:19:13-55
+	android:exported
+		ADDED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:18:13-72
+activity#com.dmcbig.mediapicker.PickerActivity
+ADDED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:27:9-31:63
+	android:windowSoftInputMode
+		ADDED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:31:13-60
+	android:configChanges
+		ADDED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:29:13-59
+	android:theme
+		ADDED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:30:13-63
+	android:name
+		ADDED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:28:13-65
+activity#com.dmcbig.mediapicker.PreviewActivity
+ADDED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:32:9-36:63
+	android:windowSoftInputMode
+		ADDED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:36:13-60
+	android:configChanges
+		ADDED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:34:13-59
+	android:theme
+		ADDED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:35:13-63
+	android:name
+		ADDED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:33:13-66
+activity#com.dmcbig.mediapicker.TakePhotoActivity
+ADDED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:37:9-41:63
+	android:windowSoftInputMode
+		ADDED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:41:13-60
+	android:configChanges
+		ADDED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:39:13-59
+	android:theme
+		ADDED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:40:13-63
+	android:name
+		ADDED from [com.dmcBig:mediapicker:3.2] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/AndroidManifest.xml:38:13-68
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3750bca9e212e54b9d779a8d3e5302c2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/727f767fbef5b6049a91b5e3f5c76bf7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/727f767fbef5b6049a91b5e3f5c76bf7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/b05a272d7942e1142778669c22e8513f/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/b05a272d7942e1142778669c22e8513f/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/fed8c79a8431669f78c070f1ff55c3de/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/fed8c79a8431669f78c070f1ff55c3de/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/5417bf57d32863ca4596f50b2382c4fe/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/5417bf57d32863ca4596f50b2382c4fe/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/07a24ad866a9b79b7f7f2b2d5723fe72/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/07a24ad866a9b79b7f7f2b2d5723fe72/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8d57ae1046f16727dbd9fd96e8184ee0/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/8d57ae1046f16727dbd9fd96e8184ee0/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/d66890e0fb9feb0565a5f91c3508d18c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/d66890e0fb9feb0565a5f91c3508d18c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/63480fbefc5e1a83c0871e7ebbab89de/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/63480fbefc5e1a83c0871e7ebbab89de/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4c034e4370cbb099a2024de08b6871af/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4c034e4370cbb099a2024de08b6871af/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3750bca9e212e54b9d779a8d3e5302c2/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3750bca9e212e54b9d779a8d3e5302c2/AndroidManifest.xml:26:9-47
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:1.0.0] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/easypermissions-1.0.0.aar/550d37eb59e554c89bdf4cf5426d5195/AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:1.0.0] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/easypermissions-1.0.0.aar/550d37eb59e554c89bdf4cf5426d5195/AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:1.0.0] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/easypermissions-1.0.0.aar/550d37eb59e554c89bdf4cf5426d5195/AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:1.0.0] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/easypermissions-1.0.0.aar/550d37eb59e554c89bdf4cf5426d5195/AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:1.0.0] /Users/weidonghua/.gradle/caches/transforms-1/files-1.1/easypermissions-1.0.0.aar/550d37eb59e554c89bdf4cf5426d5195/AndroidManifest.xml:13:13-86

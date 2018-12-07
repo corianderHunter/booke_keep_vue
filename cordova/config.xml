@@ -8,7 +8,6 @@
         Apache Cordova Team
     </author>
     <content src="index.html" />
-    <plugin name="cordova-plugin-whitelist" spec="1" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
@@ -23,8 +22,11 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
-    <plugin name="cordova-plugin-geolocation" spec="^4.0.1" />
     <plugin name="cordova-plugin-camera" spec="^4.0.3" />
-    <plugin name="cordova-plugin-image-picker" spec="^1.1.3" />
-    <engine name="android" spec="7.1.1" />
+    <plugin name="cordova-plugin-mediapicker-dmcsdk" spec="^2.4.2">
+        <variable name="IOS_PHOTO_LIBRARY_USAGE_DESCRIPTION" value="book_keep images" />
+    </plugin>
+    <plugin name="cordova-plugin-whitelist" spec="^1.3.3" />
+    <plugin name="cordova-plugin-geolocation" spec="^4.0.1" />
+    <engine name="android" spec="^7.1.2" />
 </widget>

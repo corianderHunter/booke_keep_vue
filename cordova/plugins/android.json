@@ -7,16 +7,16 @@
     "files": {}
   },
   "installed_plugins": {
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.corianderhunter.bookKeepVue"
+    },
+    "cordova-plugin-mediapicker-dmcsdk": {
+      "PACKAGE_NAME": "com.corianderhunter.bookKeepVue"
+    },
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.corianderhunter.bookKeepVue"
     },
     "cordova-plugin-geolocation": {
-      "PACKAGE_NAME": "com.corianderhunter.bookKeepVue"
-    },
-    "cordova-plugin-camera": {
-      "PACKAGE_NAME": "com.corianderhunter.bookKeepVue"
-    },
-    "cordova-plugin-image-picker": {
       "PACKAGE_NAME": "com.corianderhunter.bookKeepVue"
     }
   },

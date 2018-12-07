@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/weidonghua/Project/book_keep_vue/cordova/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/weidonghua/.gradle/caches/transforms-1/files-1.1/mediapicker-3.2.aar/8b001fe6b2eb5b7a1e8d052fe7f4224e/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,165,208,251,305,348,384,431,486,547,586,624,676,722,771,823,860",
+                        "endColumns": "60,48,42,42,53,42,35,46,54,60,38,37,51,45,48,51,36,47",
+                        "endOffsets": "111,160,203,246,300,343,379,426,481,542,581,619,671,717,766,818,855,903"
+                    }
+                }
+            ]
+        }
+    ]
+}
